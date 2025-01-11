@@ -19,6 +19,7 @@ public class SetupAll {
     @Test
     public void aaa() {
         driver.get("https://hr.selise.biz/login");
+        System.out.println("All Ok");
     }
 
 }
